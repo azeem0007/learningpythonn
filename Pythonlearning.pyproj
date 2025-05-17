@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3084ea69-6abf-49ca-af6f-d11e856c0a01</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Pythonlearning.py</StartupFile>
+    <StartupFile>treasure_island.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,6 +24,7 @@
     <Compile Include="calculator.py" />
     <Compile Include="loops.py" />
     <Compile Include="Pythonlearning.py" />
+    <Compile Include="treasure_island.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
