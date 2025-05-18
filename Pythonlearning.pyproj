@@ -24,6 +24,7 @@
     <Compile Include="calculator.py" />
     <Compile Include="loops.py" />
     <Compile Include="Pythonlearning.py" />
+    <Compile Include="randomisation.py" />
     <Compile Include="treasure_island.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
