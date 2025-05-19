@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="calculator.py" />
+    <Compile Include="functions_while_loops.py" />
     <Compile Include="password generator%28for loops%29.py" />
     <Compile Include="loops.py" />
     <Compile Include="Pythonlearning.py" />
