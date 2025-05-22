@@ -22,11 +22,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="calculator.py" />
+    <Compile Include="cipher.py" />
+    <Compile Include="dic.py" />
     <Compile Include="functions_while_loops.py" />
+    <Compile Include="mini_pro.py" />
     <Compile Include="password generator%28for loops%29.py" />
     <Compile Include="loops.py" />
     <Compile Include="Pythonlearning.py" />
     <Compile Include="randomisation.py" />
+    <Compile Include="test.py" />
     <Compile Include="treasure_island.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
